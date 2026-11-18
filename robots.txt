@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /goto/
+Disallow: /*?*search_source=
+Disallow: /*&search_source=
+Disallow: /*&lr=
+Disallow: /*&lr=*
+Disallow: /*&source=tabbar
+Disallow: /404.html
+
+Sitemap: https://exchange-crypto.pro/sitemap.xml
